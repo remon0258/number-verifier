@@ -12,7 +12,7 @@ import (
 
 func main() {
 	var (
-		selectedProvider = flag.String("provider", "foo", "a string")
+		selectedProvider = flag.String("provider", "smsreceivefree", "a string")
 		err              error
 		number           string
 		messages         []string
