@@ -1,4 +1,4 @@
-# number-verifier
+# Number Verifier - Simple, free SMS verification tool
 ![number verifier demo](demo.gif)
 
 Number Verifier is a **SMS verification tool** that makes it easy to get a disposable SMS number and bypass SMS number verifications on any site, for example Facebook, Discord, Twitter, Uber, WeChat, Google & more.
